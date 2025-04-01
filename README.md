@@ -16,7 +16,7 @@ This project is to implement OOP using TS, where the concepts of inheritance and
 
     npm run dev
 
-    #### Challenges
+#### Challenges
 [ ] Implement the deposit and withdraw methods in the DioAccount class
 
 The balance values should be adjusted according to the deposit amount
